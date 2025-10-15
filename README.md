@@ -64,18 +64,29 @@ console.log("Sempre em evolução!");
 ---
 
 <br>
+<br>
 
 <div align="center">
 
 ## Minhas Estatísticas no GitHub
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B6B" alt="GitHub Stats" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Bernilo Bernardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerniloBernardo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" />
+</p>
 
 </div>
 
