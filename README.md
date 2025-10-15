@@ -20,22 +20,24 @@ const devJunior = {
     nivel: "Júnior",
     localização: "Brasil",
     
+   const bernilo = {
     tecnologias: {
-        linguagens: ["HTML5", "CSS3", "JavaScript"],
-        ferramentas: ["Git", "VS Code", "GitHub"],
-        aprendendo: ["Responsividade", "Acessibilidade", "Clean Code"]
+        linguagens: ["🌐 HTML5", "🎨 CSS3", "⚡ JavaScript"],
+        ferramentas: ["🐙 Git", "💻 VS Code", "📦 GitHub"],
+        aprendendo: ["📱 Responsividade", "🧠 Acessibilidade", "🧹 Clean Code"]
     },
-    
+
     objetivos_2025: [
-        "Dominar JavaScript",
-        "Criar 10+ projetos",
-        "Contribuir em Open Source",
-        "Conseguir primeiro emprego como Dev"
+        "🔥 Dominar JavaScript",
+        "🚀 Criar 10+ projetos",
+        "🤝 Contribuir em Open Source",
+        "💼 Conseguir primeiro emprego como Dev"
     ],
-    
-    hobbies: ["Codar", "Aprender", "Criar"],
-    frase: "Transformando café em código!"
+
+    hobbies: ["💻 Codar", "📚 Aprender", "🎨 Criar"],
+    frase: "☕ Transformando café em código!"
 };
+
 
 console.log("Sempre em evolução!");
 \`\`\`
