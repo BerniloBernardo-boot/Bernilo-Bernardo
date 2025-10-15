@@ -77,8 +77,7 @@ console.log("Sempre em evolução!");
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" />
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bernilo%20Bernardo&theme=catppuccin-mocha&hide_border=verdadeiro&border_radius=11.2&locale=pt&short_numbers=verdadeiro&date_format=j%2Fn%5B%2FY%5D&card_width=391" alt="GitHub Streak" /></a>
 </div>
 
 
