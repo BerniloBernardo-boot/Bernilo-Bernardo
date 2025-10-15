@@ -67,19 +67,60 @@ console.log("Sempre em evolução!");
 
 <br>
 
-<div align="center">
+<div align="center" style="background:#20232b;padding:25px;border-radius:18px;width:360px;color:#fff;font-family:Arial;">
+  <h3 style="color:#ff5fa8;">Estatísticas do GitHub de <b>Developer Bernilo</b></h3>
+  
+  <p style="display:flex;align-items:center;justify-content:space-between;width:280px;margin:auto;">
+    <span style="display:flex;align-items:center;gap:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="#ff5fa8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+      Total de Stars
+    </span>
+    <b>131</b>
+  </p>
 
-## Minhas Estatísticas no GitHub
+  <p style="display:flex;align-items:center;justify-content:space-between;width:280px;margin:auto;">
+    <span style="display:flex;align-items:center;gap:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="#7bdff7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+      Commits (último ano)
+    </span>
+    <b>371</b>
+  </p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B6B" alt="GitHub Stats" />
+  <p style="display:flex;align-items:center;justify-content:space-between;width:280px;margin:auto;">
+    <span style="display:flex;align-items:center;gap:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="#8ad3ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/></svg>
+      Pull Requests
+    </span>
+    <b>360</b>
+  </p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+  <p style="display:flex;align-items:center;justify-content:space-between;width:280px;margin:auto;">
+    <span style="display:flex;align-items:center;gap:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="#ffd36b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12" y2="16"/></svg>
+      Issues
+    </span>
+    <b>86</b>
+  </p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <p style="display:flex;align-items:center;justify-content:space-between;width:280px;margin:auto;">
+    <span style="display:flex;align-items:center;gap:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="#b6aaff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M20 2H6.5A2.5 2.5 0 0 0 4 4.5v15"/></svg>
+      Projetos Contribuídos
+    </span>
+    <b>9</b>
+  </p>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" />
-
+  <div style="margin-top:18px;">
+    <svg width="120" height="120" viewBox="0 0 120 120">
+      <circle cx="60" cy="60" r="44" stroke="#35383f" stroke-width="14" fill="none"/>
+      <circle cx="60" cy="60" r="44" stroke="#ff5fa8" stroke-width="14" stroke-linecap="round"
+              stroke-dasharray="276.46" stroke-dashoffset="33"/>
+      <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="34" fill="#fff" font-weight="bold">A</text>
+    </svg>
+    <p style="margin:6px 0 0;font-size:14px;color:#aaa;">Nível de Atividade</p>
+  </div>
 </div>
+
 
 <br>
 
