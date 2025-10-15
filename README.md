@@ -1,82 +1,204 @@
+<div align="center">
 
-<h1 align="center">🔥 Developer Bernilo 🔥</h1>
+# 🚀 Olá! Eu sou Desenvolvedor Júnior
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End%20Developer-Júnior-ff0000?style=for-the-badge&logo=github" alt="Developer Level">
-  <img src="https://img.shields.io/badge/Web%20&%20Mobile%20Dev-Active-ff6600?style=for-the-badge&logo=codepen">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Front-End%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Desenvolvedor+J%C3%BAnior+%F0%9F%8C%B1;Criando+Experi%C3%AAncias+Web;Aprendendo+Todos+os+Dias+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🧠 Sobre mim
+</div>
 
-👋 Olá! Eu sou o **Developer Bernilo**, um desenvolvedor **Júnior** focado em **HTML, CSS e JavaScript**.  
-Gosto de criar interfaces com estilo, movimento e alma.  
-Sempre buscando aprender mais e transformar linhas de código em **arte digital**.  
+<br>
 
-💭 “Ser simples é ser diferente. E ser diferente é o que me move.”
+## 🎯 Sobre Mim
 
----
+\`\`\`javascript
+const devJunior = {
+    nome: "Seu Nome",
+    idade: 20,
+    cargo: "Desenvolvedor Front-End Júnior",
+    nivel: "🌱 Júnior",
+    localização: "Brasil 🇧🇷",
+    
+    tecnologias: {
+        linguagens: ["HTML5", "CSS3", "JavaScript"],
+        ferramentas: ["Git", "VS Code", "GitHub"],
+        aprendendo: ["Responsividade", "Acessibilidade", "Clean Code"]
+    },
+    
+    objetivos_2025: [
+        "Dominar JavaScript",
+        "Criar 10+ projetos",
+        "Contribuir em Open Source",
+        "Conseguir primeiro emprego como Dev"
+    ],
+    
+    hobbies: ["Codar", "Aprender", "Criar"],
+    frase: "Transformando café em código! ☕💻"
+};
 
-### 🧩 Minhas Skills Principais
+console.log("Sempre em evolução! 🚀");
+\`\`\`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="200" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
+<div align="center">
 
-🧱 **Front-end puro**, mas com visão criativa e código limpo.  
-🎨 Foco em design responsivo e animações com CSS.  
-⚡ Estudo constante de boas práticas e estrutura de código.
+## 🛠️ Minhas Tecnologias
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Skills" />
 
-### 💻 Projetos Recentes
+<br><br>
 
-| 💡 Projeto | 🚀 Descrição | 🔗 Link |
-|-------------|---------------|---------|
-| **Landing Page Galaxy** | Uma página com efeito espacial e rolagem animada. | [Ver projeto](#) |
-| **Terminal Hacker** | Animação interativa em HTML + JS simulando um terminal hacker. | [Ver projeto](#) |
-| **Portfólio Bernilo** | Meu portfólio com transições suaves e tema neon. | [Ver projeto](#) |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+</div>
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeveloperBernilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperBernilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF" alt="Linguagens Mais Usadas"/>
-</p>
-
----
-
-### ⚡ Ferramentas que uso
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-</p>
+<br>
 
 ---
 
-### 💬 Onde me encontrar
+<br>
 
-📩 **Email:** [bernilo.dev@example.com](mailto:bernilo.dev@example.com)  
-🌐 **GitHub:** [github.com/DeveloperBernilo](https://github.com/DeveloperBernilo)  
-📱 **Instagram:** [@bernilo.dev](https://instagram.com/bernilo.dev)
+<div align="center">
+
+## 📊 Minhas Estatísticas no GitHub
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B6B" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" />
+
+</div>
+
+<br>
 
 ---
 
-### 🌟 Frase que me representa
+<br>
 
-> 💬 “Não sou o melhor ainda, mas o que faço já é diferente.”
+<div align="center">
+
+## 🏆 Troféus do GitHub
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies" />
+
+</div>
+
+<br>
 
 ---
 
-<h3 align="center">⚡ Feito com 💻, ☕ e muita dedicação — por <strong>Developer Bernilo</strong> ⚡</h3>
+<br>
+
+<div align="center">
+
+## 🎨 Projetos em Destaque
+
+<a href="https://github.com/SEU_USERNAME/NOME_DO_REPO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Projeto 1" />
+</a>
+
+<a href="https://github.com/SEU_USERNAME/OUTRO_REPO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=OUTRO_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Projeto 2" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🌐 Conecte-se Comigo
+
+<a href="https://github.com/SEU_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+</a>
+
+<a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+</a>
+
+<a href="mailto:seu.email@exemplo.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+</a>
+
+<br><br>
+
+### 📧 Ou me envie um email direto:
+
+**seu.email@exemplo.com**
+
+<br>
+
+<img src="https://img.shields.io/badge/Disponível_para_Oportunidades-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Disponível" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 💭 Frase Motivacional
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Quote" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 💡 "O código é poesia escrita em lógica"
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00D9FF&style=for-the-badge&label=VISITANTES+DO+PERFIL)
+
+<br>
+
+### ⭐ Se você gostou do meu perfil, deixe uma estrela nos repositórios! ⭐
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
