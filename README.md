@@ -1,24 +1,24 @@
 <div align="center">
 
-# 🚀 Olá! Eu sou Desenvolvedor Júnior
+# Olá! Eu sou Desenvolvedor Júnior
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Front-End%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Desenvolvedor+J%C3%BAnior+%F0%9F%8C%B1;Criando+Experi%C3%AAncias+Web;Aprendendo+Todos+os+Dias+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Desenvolvedor+J%C3%BAnior;Criando+Experi%C3%AAncias+Web;Aprendendo+Todos+os+Dias" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 🎯 Sobre Mim
+## Sobre Mim
 
 \`\`\`javascript
 const devJunior = {
     nome: "Seu Nome",
     idade: 20,
     cargo: "Desenvolvedor Front-End Júnior",
-    nivel: "🌱 Júnior",
-    localização: "Brasil 🇧🇷",
+    nivel: "Júnior",
+    localização: "Brasil",
     
     tecnologias: {
         linguagens: ["HTML5", "CSS3", "JavaScript"],
@@ -34,17 +34,17 @@ const devJunior = {
     ],
     
     hobbies: ["Codar", "Aprender", "Criar"],
-    frase: "Transformando café em código! ☕💻"
+    frase: "Transformando café em código!"
 };
 
-console.log("Sempre em evolução! 🚀");
+console.log("Sempre em evolução!");
 \`\`\`
 
 <br>
 
 <div align="center">
 
-## 🛠️ Minhas Tecnologias
+## Minhas Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Skills" />
 
@@ -67,7 +67,7 @@ console.log("Sempre em evolução! 🚀");
 
 <div align="center">
 
-## 📊 Minhas Estatísticas no GitHub
+## Minhas Estatísticas no GitHub
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B6B" alt="GitHub Stats" />
 
@@ -87,7 +87,7 @@ console.log("Sempre em evolução! 🚀");
 
 <div align="center">
 
-## 🏆 Troféus do GitHub
+## Troféus do GitHub
 
 <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies" />
 
@@ -101,7 +101,7 @@ console.log("Sempre em evolução! 🚀");
 
 <div align="center">
 
-## 🎨 Projetos em Destaque
+## Projetos em Destaque
 
 <a href="https://github.com/SEU_USERNAME/NOME_DO_REPO">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Projeto 1" />
@@ -121,7 +121,7 @@ console.log("Sempre em evolução! 🚀");
 
 <div align="center">
 
-## 🌐 Conecte-se Comigo
+## Conecte-se Comigo
 
 <a href="https://github.com/SEU_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
@@ -137,7 +137,7 @@ console.log("Sempre em evolução! 🚀");
 
 <br><br>
 
-### 📧 Ou me envie um email direto:
+### Ou me envie um email direto:
 
 **seu.email@exemplo.com**
 
@@ -155,7 +155,7 @@ console.log("Sempre em evolução! 🚀");
 
 <div align="center">
 
-## 💭 Frase Motivacional
+## Frase Motivacional
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Quote" />
 
@@ -169,7 +169,7 @@ console.log("Sempre em evolução! 🚀");
 
 <div align="center">
 
-## 🐍 Minhas Contribuições
+## Minhas Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
@@ -187,7 +187,7 @@ console.log("Sempre em evolução! 🚀");
 
 <div align="center">
 
-### 💡 "O código é poesia escrita em lógica"
+### "O código é poesia escrita em lógica"
 
 <br>
 
@@ -195,10 +195,11 @@ console.log("Sempre em evolução! 🚀");
 
 <br>
 
-### ⭐ Se você gostou do meu perfil, deixe uma estrela nos repositórios! ⭐
+### Se você gostou do meu perfil, deixe uma estrela nos repositórios!
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
+
