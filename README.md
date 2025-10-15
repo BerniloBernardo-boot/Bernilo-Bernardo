@@ -99,13 +99,7 @@ console.log("Sempre em evolução!");
 
 <br>
 
-<div align="center">
 
-## Troféus do GitHub
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies" />
-
-</div>
 
 <br>
 
@@ -117,7 +111,7 @@ console.log("Sempre em evolução!");
 
 ## Projetos em Destaque
 
-<a href="https://github.com/SEU_USERNAME/NOME_DO_REPO">
+<a href="https://github.com/Bernilo Bernardo/NOME_DO_REPO">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Projeto 1" />
 </a>
 
